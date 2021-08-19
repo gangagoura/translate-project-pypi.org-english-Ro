@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header adminlang="en" srclang="en">
+</header>
+<body>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You are now ${role} of the &#x27;${project_name}&#x27; project.</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Acum sunteți $ {role} din proiectul &#x27;$ {project_name}&#x27;.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You must provision a two factor method before recovery codes can be generated</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Trebuie să furnizați o metodă cu doi factori înainte ca codurile de recuperare să poată fi generate</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: not an email verification token</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: nu un Token de verificare prin e-mail</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: request a new email verification link</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: solicitați un nou link de verificare prin e-mail</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invitation for &#x27;${project_name}&#x27; is declined.</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Invitația pentru &#x27;$ {project_name}&#x27; este refuzată.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Role invitation no longer exists.</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Invitația la rol nu mai există.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Recovery codes already generated</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Coduri de recuperare deja generate</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Role invitation is not valid.</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Invitația la rol nu este validă.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Expired token: request a new email verification link</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token expirat: solicitați un nou link de verificare prin e-mail</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: not an email verification token</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: nu un jeton de verificare prin e-mail</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>This is your primary address</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Aceasta este adresa dvs. principală</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You can now set this email as your primary address</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Acum puteți seta acest e-mail ca adresă principală</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Email already verified</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>E-mailul a fost deja verificat</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Email not found</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>E-mailul nu a fost găsit</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: password has already been changed since this token was requested</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: parola a fost deja modificată de la solicitarea acestui jeton</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You have reset your password</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>V-ați resetat parola</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: user has logged in since this token was requested</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: utilizatorul s-a conectat de când a fost solicitat acest jeton</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: user not found</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: utilizatorul nu a fost găsit</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: not a password reset token</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: nu un jeton de resetare a parolei</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: no token supplied</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: nu este furnizat niciun jeton</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid token: request a new password reset link</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token nevalid: solicitați un nou link de resetare a parolei</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Expired token: request a new password reset link</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Token expirat: solicitați un nou link de resetare a parolei</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>New user registration temporarily disabled. See https://pypi.org/help#admin-intervention for details.</seg>
+</tuv>
+<tuv xml:lang="ro">
+<seg>Înregistrarea unui nou utilizator a fost dezactivată temporar. Consultați https://pypi.org/help#admin-intervention pentru detalii.</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>
